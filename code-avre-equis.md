@@ -17,3 +17,75 @@ A blindness to the sound created with code received will yield wildly different 
 
 COMMENTARY:
 This compilation presents what we hope is a new method of collaboration for 21st century artists utilizing code for the creation of sound and music. This exercise owes equal debt to the exploratory and whimsical spirit of 20th century painters as it does to to the structure and practice of devs from the last several decades.
+
+# Teletype Scene Template
+
+SUGGESTED USE:
+Copy and paste this into a text file on your computer. Note down your TT scene info. We will be releasing this info with the album.
+
+## 1
+```
+TR.P 1
+TR.P 2
+etc.
+
+```
+## 2
+```
+...
+```
+
+## 3
+```
+...
+```
+
+## 4
+```
+...
+```
+
+## 5
+```
+...
+```
+
+## 6
+```
+...
+```
+
+## 7
+```
+...
+```
+
+## 8
+```
+...
+```
+
+## M
+```
+...
+```
+
+## I
+```
+...
+```
+
+## T
+```
+0     0     0     0
+0     0     0     0
+0     0     0     0
+0     0     0     0
+0     0     0     0
+0     0     0     0
+0     0     0     0
+0     0     0     0
+```
+
+## Patch Notes
+Optional patch notes can go here.
