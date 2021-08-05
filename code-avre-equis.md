@@ -21,7 +21,7 @@ This compilation presents what we hope is a new method of collaboration for 21st
 # Teletype Scene Template
 
 SUGGESTED USE:
-Copy and paste this into a text file on your computer. Note down your TT scene info. We will be releasing this info with the album.
+Copy and paste this into a text file on your computer. Please note your TT scene info. We will be releasing this info with the album.
 
 ## 1
 ```
